@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\bin\Debug\net6.0\Lection1_HelloConsole.exe
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\bin\Debug\net6.0\Lection1_HelloConsole.deps.json
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\bin\Debug\net6.0\Lection1_HelloConsole.runtimeconfig.json
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\bin\Debug\net6.0\Lection1_HelloConsole.dll
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\bin\Debug\net6.0\Lection1_HelloConsole.pdb
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.dll
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\refint\Lection1_HelloConsole.dll
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.pdb
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\Lection1_HelloConsole.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#HowToWork\Lection1_HelloConsole\obj\Debug\net6.0\ref\Lection1_HelloConsole.dll
