@@ -1,5 +1,5 @@
 ﻿int numberA = 3;
 int numberB = 5; 
-int result =numberA + numberB
-Console.Writeline(result); //можно сделать так или >> Console.Writeline(Number + NumberB)
+int result = numberA + numberB;
+Console.Writeline;(result); //можно сделать так или >> Console.Writeline(Number + NumberB)
 
